@@ -15,5 +15,5 @@ Currently: improving YOLO-based OCR for tire codes and building production-ready
 - **Tire-OCR** — YOLO + OCR pipeline for extracting alphanumeric codes from tire images
 
 ## Want to see code or a demo?
-- [Resume (PDF)](https://drive.google.com/file/d/1YuToS99m4ZpWuB0-uLJt5qm1SZycWJHu/view?usp=sharing)
+- Resume (PDF): [https://drive.google.com/file/d/1YuToS99m4ZpWuB0-uLJt5qm1SZycWJHu/view?usp=sharing](https://drive.google.com/file/d/1YuToS99m4ZpWuB0-uLJt5qm1SZycWJHu/view?usp=sharing)
 - Email: sudarshanreddymedapati@gmail.com
